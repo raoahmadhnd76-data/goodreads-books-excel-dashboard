@@ -34,6 +34,9 @@ Genre and publication year insights
 | -------------------------------- | --------------------- |
 | `Goodreads_Books_Dashboard.xlsx` | Main Excel dashboard  |
 | `README.md`                      | Project documentation |
+| `Dashboard_goodreads_books.png`  | Dashboard Screenshot  |
+| `Dashboard_goodreads_books.mp4`  | Dashboard Video       |
+| `Goodreads_books_dashboard.gif`  | Dashboard gif         |
 
 ## 📸 Dashboard Screenshot
 
